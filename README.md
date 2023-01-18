@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Moses Choka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data scientist and machine learning engineer</h3>
 
-- 🔭 I’m currently working on **building a data science community.**
+- 🔭 I’m currently working on **building a data science community website using Rails Framework.**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on **data science, and ML projects.**
+- 👯 I’m looking to collaborate on **data science, ML, and NLP projects.**
 
 - 📝 I regularly write articles on [https://medium.com/@MosesChoka](https://medium.com/@MosesChoka)
 
