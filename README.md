@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Moses Choka</h1>
 <h3 align="center">A data scientist and machine learning engineer</h3>
 
-- 🔭 Currently **building data science community and learning website using Rails Framework. Data Sessions is a community where data analysis, data science, and ML enthusiasts in Kenya come together to learn, collaborate and grow.**
-
 - 🌱 I’m currently learning **software development using Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **data science, ML, and NLP projects.**
