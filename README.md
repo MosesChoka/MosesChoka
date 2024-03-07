@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Moses Choka</h1>
 <h3 align="center">A data scientist and machine learning engineer</h3>
 
-- 🌱 I’m currently learning **software development using Ruby on Rails**
+- 🌱 I’m currently learning **software development using Ruby on Rails, and React**
 
 - 👯 I’m looking to collaborate on **data science, ML, and NLP projects.**
 
