@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Moses Choka</h1>
 <h3 align="center">A data scientist and a software engineer</h3>
 
-- 🌱 Currently I **build web applications using Ruby on Rails, Hotwire, and Tailwind CSS**
+- 🌱 Currently I am **building web applications using Ruby on Rails**
 
 - 👯 I’m am open to collaborate on exciting projects about **software development, and data science.**
 
